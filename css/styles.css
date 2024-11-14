@@ -47,7 +47,7 @@ form {
 }
 
 .add_btn {
-    width: 100%; /* Agar tombol memiliki panjang yang sama dengan input */
+    width: 100%;
     background-color: #8d6e63;
     color: #fff;
     border: none;
@@ -62,7 +62,6 @@ form {
     background-color: #6d4c41;
 }
 
-/* Styling untuk tabel */
 table {
     width: 100%;
     max-width: 600px;
